@@ -1,1 +1,0 @@
-# Genki-Narimoto.github.io
