@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../VS code/portfolio"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pp_website"
+	}
+}
